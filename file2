@@ -1,0 +1,198 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HOME PAGE</title>
+    <style>
+        body{
+            position: absolute
+        }
+        .image1{
+            width: 1483px;
+            height: 989px;
+            left: 1440px;
+            top: 7px;
+            background: url(tamara-budai-lLs02_axGOw-unsplash(1).jpg);
+            transform: matrix(-1, 0, 0, 1, 0, 0);
+        }
+        /* we know how to please you*/
+        h1{
+            width: 708px;
+            height: 230px;
+            left: 156px;
+            top: 319px;
+
+            font-family: Eksell Display;
+            font-style: normal;
+            font-weight: 550;
+            font-size: 96px;
+            line-height: 115px;
+            color: #FFFFFF;
+        }
+        .h4{
+            position: absolute;
+            width: 509px;
+            height: 80px;
+            left: 162px;
+            top: 554px;
+
+            font-family: Cera Pro;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 32px;
+            line-height: 40px;
+            color: #FFFFFF;
+        }
+        .container{        
+            position: absolute;
+            width: 1114px;
+            height: 170px;
+            left: 162px;
+            top: 782px;
+            background: #F9FBFF;
+            backdrop-filter: blur(11px);
+            border-radius: 4px;
+        }
+        .small{
+            position: absolute;
+            height: 25px;
+            top: 812px;
+            font-family: Cera Pro;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 25px;
+            color: #2B2B2B;
+        }
+        .bigcont{
+            position: absolute;
+            width: 164px;
+            height: 65px;
+            top: 842px;
+            border: 1px solid rgba(0, 0, 0, 0.36);
+            backdrop-filter: blur(11px);
+            border-radius: 3px;
+        }
+        /*start of section 2*/
+        h2{
+            position: absolute;
+            width: 273px;
+            height: 86px;
+            left: 162px;
+            top: 1057px;
+
+            font-family: Eksell Display;
+            font-style: normal;
+            font-weight: 550;
+            font-size: 72px;
+            line-height: 86px;
+
+            color: #2B2B2B;
+
+        }
+        h2{
+            position: absolute;
+            width: 273px;
+            height: 86px;
+            left: 162px;
+            top: 1057px;
+
+            font-family: Eksell Display;
+            font-style: normal;
+            font-weight: 550;
+            font-size: 72px;
+            line-height: 86px;
+
+            color: #2B2B2B;
+        }
+        .h4-2{
+            position: absolute;
+            width: 522px;
+            height: 205px;
+            left: 163px;
+            top: 1189px;
+
+            font-family: Cera Pro;
+            font-style: normal;
+            font-weight: 300;
+            font-size: 24px;
+            line-height: 30px;
+
+            color: #2B2B2B;
+
+        }
+        .read1{
+            position: absolute;
+            width: 122px;
+            height: 30px;
+            left: 163px;
+            top: 1403px;
+
+            font-family: Cera Pro;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 30px;
+            color: #02CE77;
+        }
+        .container2{
+            position: absolute;
+            width: 755px;
+            height: 152px;
+            left: 162px;
+            top: 1501px;
+
+            background: #FFFFFF;
+        }
+        .image2{
+            position: absolute;
+            width: 1041.89px;
+            height: 706.12px;
+            left: 782px;
+            top: 982.2px;
+            background: url(palm-trees-at-night-258154.jpg);
+        }
+    </style>
+
+</head>
+<body>
+    <section>
+        <div class="image1">
+            <img src="url" alt="">
+            <h1>We Know How To Please You</h1>
+            <p class="h4">The best place  to experience and enjoy an unforgetable night</p>
+        <rectangle class="container">
+            <ol class="small">
+                <tr style="width: 82px; left: 195px;">check in</tr>
+                <tr style="width: 97px; left: 821px;">check out</tr>
+                <tr style="width: 51px; left: 548px;">Adult</tr>
+                <tr style="width: 79px; left: 725px;">Children</tr>
+                <tr style="width: 83px; left: 902px;">Room (s)</tr>
+            </ol>
+            <div class="bigcont">
+                <button style="left: 194px;">select date</button>
+                <button style="left: 371px;">select date</button>
+                <button style="left: 548px;">Adult</button>
+                <button style="left: 725px;">children</button>
+                <button style="left: 902px;">Room (s)</button>
+                <button style="left: 1079px; width: 171px; background: #02CE77;">Book Now</button>
+            </div>
+        </rectangle>
+        </div>  
+    </section>
+    <section>
+        <div>
+            <h2>About Us</h2>
+            <p class="h4-2">Tunz hotel and resort was founded in 2012 by Tunz goup of company. We are a 7- star hotel award winning hotel that provide the best quality and affordable hotel commodation in Nigeria. 
+               Maximum comfort and customer satisfaction is guaranteed in our facilties.</p>
+               <button class="read1">Read more</button>
+               <rectangle class="container2"></rectangle>
+               <div class="image2">
+                   <img src="url" alt="">
+                   
+               </div>
+        </div>
+    </section>
+</body>
+</html>
